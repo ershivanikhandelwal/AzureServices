@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63e56a5b-4c81-4620-af9b-1e459ab0248e": {
+      "ProjectGuid": "63e56a5b-4c81-4620-af9b-1e459ab0248e",
+      "DisplayName": "AzureBlobStorageImplementation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
